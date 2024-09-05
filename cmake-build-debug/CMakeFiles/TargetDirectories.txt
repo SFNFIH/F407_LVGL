@@ -1,0 +1,3 @@
+C:/Users/tony/STM32CubeIDE/workspace_1.16.0/F407_LVGL/cmake-build-debug/CMakeFiles/F407_LVGL.elf.dir
+C:/Users/tony/STM32CubeIDE/workspace_1.16.0/F407_LVGL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tony/STM32CubeIDE/workspace_1.16.0/F407_LVGL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
